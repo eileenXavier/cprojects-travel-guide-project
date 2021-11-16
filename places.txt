@@ -1,0 +1,38 @@
+{
+mumbai
+Location : Maharashtra 
+Best places to visit : Gateway of India, Chhatrapati Shivaji Maharaj Terminus, Marine Drive, Chhatrapati Shivaji Maharaj Vastu Sanghralaya
+Best time to visit:Winter or Summer
+Famous Food:Different kinds of chaat (Bhelpuri, Pani Puri etc), Pav Bhaji, Kebab rolls, Pattis, Indian sweets, Vada pav, South Indian food, Alfanso Mangoes
+Famous for:Antiques, Carpets, rugs and shawls, Leather jackets, Traditional clothing & handicrafts
+Best hotels:Taj in Colaba - review : 4.5  ;   The ITC Grand Maratha - review : 4.5
+}
+{
+pune
+Location:Maharashtra 
+best places to visit:
+Shaniwar Wada, Aga Khan Palace, Alibaug Beach, Singhgad Fort
+Best time to visit: Winter or Summer
+Famous food :Misal
+Famous for:Kolhapuri chappals, Jewellery
+Best hotels:Hotel Studio Estique - review : 3.9      Deccan - review : 3.5
+}
+{
+nashik
+Location:Maharashtra 
+best places to visit:
+WeGo Art Gallery & Art Exhbition, Mineral Museu, Pandav Leni - Pandav Caves, Trambakeshwar
+Best time to visit:Summer
+Famous food:Chocolates, Dry Fruits, Lantern,Missal, Various types of Ice cream
+Best hotels:Taj Residency - review :4.5     White Lily - review :4.2
+}
+{
+nagpur
+Location:Maharashtra
+best places to visit:
+Khindsi Watersports, Japanese rose garden, Narrow Gauge Rail Museum, Zero Mile Stone
+Best time to visit:Summer
+Famous Food:Saoji Curry, Calcutta Rolls
+Famous for: Cotton articles, Handicrafts
+Best hotels: Hotel Center Point - review :  4           Hotel Pride - review : 4
+}
