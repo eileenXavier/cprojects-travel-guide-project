@@ -1,0 +1,1045 @@
+{
+mumbai
+Location : Maharashtra 
+Best places to visit : Gateway of India, Chhatrapati Shivaji Maharaj Terminus, Marine Drive, Chhatrapati Shivaji Maharaj Vastu Sanghralaya
+Best time to visit : Winter or Summer
+Famous Food : Different kinds of chaat (Bhelpuri, Pani Puri etc), Pav Bhaji, Kebab rolls, Pattis, Indian sweets, Vada pav, South Indian food, Alfanso Mangoes
+Things to Buy : Antiques, Carpets, rugs and shawls, Leather jackets, Traditional clothing & handicrafts
+Hotels : Taj in Colaba - review : 4.5        The ITC Grand Maratha - review : 4.5
+}
+{
+pune
+Location : Maharashtra 
+Best places to visit : Shaniwar Wada, Aga Khan Palace, Alibaug Beach, Singhgad Fort
+Best time to visit : Winter or Summer
+Famous Food : Missal
+Things to Buy : Kolhapuri chappals, Jewellery
+Hotels : Hotel Studio Estique - review : 3.9      Deccan - review : 3.5
+}
+{
+nagpur
+Location : Maharashtra
+Best places to visit : Khindsi Watersports, Japanese rose garden, Narrow Gauge Rail Museum, Zero Mile Stone
+Best time to visit : Summer
+Famous Food : Saoji Curry, Calcutta Rolls
+Things to Buy : Cotton articles, Handicrafts
+Hotels : Hotel Center Point - review :  4           Hotel Pride - review : 4
+}
+{
+nashik
+Location : Maharashtra 
+Best places to visit : WeGo Art Gallery & Art Exhbition, Mineral Museu, Pandav Leni - Pandav Caves, Trambakeshwar
+Best time to visit : Summer
+Famous Food : Missal, Various types of Ice cream
+Things to Buy : Chocolates, Dry Fruits, Lantern
+Hotels : Taj Residency - review :4.5     White Lily - review :4.2
+}
+{
+bhubaneswar
+Location : Odisha 
+Best places to visit : Lingaraj Temple, Odisha State Museum, Odisha State Museum, Museum of Tribal Art & Artefacts
+Best time to visit : October and February
+Famous Food : Odiya food
+Things to Buy : Silver filigree work, Hand woven textiles, Paper mache mask, Wooden Icons, Sand stone
+Hotels : Hotel Janpath - review : 3.5    Hotel Sandy's Tower - review : 4.5
+}
+{
+rourkela
+Location : Odisha
+Best places to visit : Hanuman Vatika,Vaisnodevi Mandir on Hills,IG Park ,Deer Park, Jubilee Park,Blue stone
+Best time to visit : Winter
+Famous Food : Pani-puri (called Gup-chup)
+Things to Buy : Clothes and jewellery
+Hotels : Mayfair Hotel  Hotel Shyam & Brindaban
+}
+{
+cuttack
+Location : Odisha
+Best places to visit : River Kathajodi, Netaji Birth Place Museum, Cuttack Chandi Temple, Dhabaleswar Island
+Best time to visit : Autumn
+Famous Food : Dahi-Vada, Aludam ghuguni, seu
+Things to Buy : Filigree work in silver and ivory, Textiles - famous Cuttacki or Katki saris
+Hotels : Hotel Lords  Hotel Sagar
+}
+{
+puri
+Location : Odisha
+Best places to visit : Golden Beach of Puri, Shankaracharya's GOBARDHAN Pitha, Shree Jagannath Puri Temple, Satapada Dolphin Sanctuary
+Best time to visit : June to March
+Famous Food : Malpua, Dalma, Ukhuda
+Things to Buy : Sambalpuri sarees, Dress materials, Kurtas, Artifacts
+Hotels : Hotel Pushpa    Hotel Diamond Palace
+}
+{
+chandigarh
+Location : Punjab
+Best places to visit : Rock Garden, Sukhna Lake, The Chandigarh Museum, Pinjore Garden
+Best time to visit : September to November
+Famous Food : Punjabi food
+Things to Buy : coffee mugs, shirts
+Hotels : Hotel Antheia in Sector  Hotel Aroma
+}
+{
+amritsar
+Location : Punjab
+Best places to visit : Jallianwala Bagh, Gobindgarh Fort, Partition Museum, Summer Palace of Maharaja Ranjit Singh
+Best time to visit : February or November
+Famous Food : Warian, Amritsari Kulcha
+Things to Buy : Brightly coloured shawls to sarees to head scarves to salwar-kameez of phulkaari 
+Hotels : Hotel PINAZ ROYALE     Hyatt Amritsar
+}
+{
+ludhiana
+Location : Punjab
+Best places to visit : Punjabi Heritage Museum, Tiger Safari on GT road, Hardy's world near Phillaur,The rose Garden, The Rakh Bagh
+Best time to visit : October- March
+Famous Food : Stuffed naans, Cholley Bhuture, Chaat, Tikki, Shahi Paneer
+Things to Buy : Woollen Kurtis, Leggings, bawa suits
+Hotels : Park Plaza   Imperial Plaza Hotel
+}
+{
+patiala
+Location : Punjab
+Best places to visit : Gurudwara Dukhniwaran Sahib Ji, Temple Kali Mata Ji, Omaxe Mall, Fun world, Qila Mubarak Complete, Rang Mahal and Sheesh Mahal
+Best time to visit : Winter season
+Famous Food : Sweets, Kachori
+Things to Buy : Phulkari, Reshmi naale, Parandi
+Hotels : Hotel Garden Resorts  Hotel Grand Park View
+}
+{
+jaipur
+Location : Rajasthan
+Best places to visit : City Palace, Jaigarh Fort , The Royal Cenotaphs, Albert Hall , Jal Mahal, Jantar Mantar
+Best time to visit : October to March
+Famous Food : Pyaz ki Kachori 
+Things to Buy : Razais, Jewels
+Hotels : Taj Rambagh Palace Hotel  The Trident Jaipur
+}
+{
+jaisalmer
+Location : Rajasthan	
+Best places to visit : Ghadsisar (Lake), Jaisalmer Fort, Jain Temple, Haveli, Desert
+Best time to visit : October and March
+Famous Food : Dal bati churma 
+Things to Buy : Bronze statues, Silk & Cashmere
+Hotels : Hotel Jaisalmer Palace  Mystic Jaisalmer
+}
+{
+jodhpur
+Location : Rajasthan
+Best places to visit : Mehrangarh Fort , Sheesh Mahal, Chamunda Mataji Temple, Umaid Bhawan Palace
+Best time to visit : October to March
+Famous Food : Makhaniya Lassi, Mawa Kachori, Panchkuta, Dal Bati Churma , Gatte ka saag,Kabuli
+Things to Buy : Bandhej, Handicrafts, Spices and Tea
+Hotels : Mehran Terrace   Pillars
+}
+{
+ajmer
+Location : Rajasthan
+Best places to visit : Shah Jahan's Mosque, Ana Sagar, Nareli, Dargah, Jain temple, Emperor Akbar's royal residence
+Best time to visit : October and March
+Famous Food : Pyaaz Kachori , Kadhi Kachori ,Pani Puri , Falooda
+Things to Buy : Hand tie-dyed turbans, odnis (traditional veils), Ornate lehengas
+Hotels : Hotel Mansingh Palace  Hotel Ajmer Regency
+}
+{
+bhopal
+Location : Madhya Pradesh
+Best places to visit : Taj Ul Masajid, Madhya Pradesh Tribal Museum, Indira Gandhi Rashtriya Manav Sangrahalaya, Upper Lake, Bharat Bhawan
+Best time to visit : October to February
+Famous Food : Kebabs, Jalebi, Ras Malai
+Things to Buy : Embroidered purses, bags, shawls, tunics, fabrics, sarees, shawls
+Hotels : Hotel Krishnayan     Amer Palace
+}
+{
+indore
+Location : Madhya Pradesh
+Best places to visit : Rajwada Palace, Kamla Nehru Prani Sangrahalaya (Indore Zoo), Lalbaag Palace, Annapurna Temple, Pipliyapala Regional Park
+Best time to visit : Winter
+Famous Food : kachories , samosas and pohas, jalebies, Imarties, Rabdi
+Things to Buy : Leather toys , Maheshwari & Chanderi sarees
+Hotels : Hotel Infiniti    Hotel President
+}
+{
+gwalior
+Location : Madhya Pradesh
+Best places to visit : Gwalior Fort, Sas Bahu Temple, Gurudwara Data Bandi Chhor, Tomb of Tansen, Gujari Mahal
+Best time to visit : January
+Famous Food : Bedai (A flour based fired dish) served with potato curries and chutneys, gazak
+Things to Buy : Handicrafts, Clothes, Stone Art
+Hotels : Hotel Shelter      Regency
+}
+{
+ujjain
+Location : Madhya Pradesh
+Best places to visit : Mahakaleshwar Jyotirlinga, Sri Kal Bhairav Mandir, Maharshi Sandipani Ashram, Shaktipeeth Shri Gadhkalika Mata Temple
+Best time to visit : October to March
+Famous Food : Kulfi, Pani Puri , Aaloo Tikia with Chhole, Rabadi
+Things to Buy : Noorjanha Mehandi , Jain Namkeen
+Hotels : Ashray   Prem Palace
+}
+{
+imphal
+Location : Manipur
+Best places to visit : Kangla Fort, RKCS Art Gallery And Museum, Manipur State Museum, Three Mothers Art Gallery
+Best time to visit : September and April 
+Famous Food : Preparations of Bamboo shoot, manipuri platter
+Things to Buy : Handicafts
+Hotels : Hotel Gaylord  Hotel Yaisana
+}
+{
+bishnupur
+Location : Manipur
+Best places to visit : Ras Mancha,Pancha Ratna Shyam Rai temple, Madanmohan Temple, Jor Bangla Temple, Radhashyam Temple
+Best time to visit : Winter season
+Famous Food : Sweet Mecha Sandesh, Pera and Postor Bora
+Things to Buy : Dhokra artifacts. Bankura Horse, Conch shell artifacts
+Hotels : Hotel Annapurna - review : 4.4     Bishnupur Tourist Lodge - review : 4.3
+}
+{
+ukhrul
+Location : Manipur
+Best places to visit : Shirui kashong (peak), PHANGREI LAKE, Mova Cave,Khangkhui Khullen Mangsor Cave
+Best time to visit : April and June
+Famous Food : Pork thali
+Things to Buy : Handicrafts
+Hotels : Hotel Yaiphaba - review : 4.2      Chingri Ngayin Lodge - review : 4.4
+}
+{
+tamenglong
+Location : Manipur
+Best places to visit : Tharon cave, Khoupum Waterfall, Barak waterfall
+Best time to visit : October and April
+Famous Food : Papaya and orange
+Things to Buy : Handicrafts
+Hotels : Bg Hotel - review : 3.5     Peace Hotel - review : 4.3
+}
+{
+shillong
+Location : Meghalaya
+Best places to visit : Elephant Falls, Umiam Lake, Shillong View Point, Laitkor Peak, Don Bosco Museum, NohKaLikai Falls
+Best time to visit : March to June 
+Famous Food : Momos
+Things to Buy : Traditional bamboo handicrafts and woollen handmade shawls, Wild Orange tea
+Hotels : Hotel Alpine Continental    Hotel Polo Towers
+}
+{
+cherrapunji
+Location : Meghalaya
+Best places to visit : Kynrem falls, Mawsmai Cave, Rainbow Falls, Arwah Cave, Dainthlen Falls
+Best time to visit : October to February
+Famous Food : Cherrapunji Food
+Things to Buy : Warm coat
+Hotels : Cherrapunjee Holiday Resort    Saimika Park
+}
+{
+tura
+Location : Meghalaya
+Best places to visit : Pelga Falls, Tura Peak, Aminda Rangsa Village Resort, Treehouse Resort Tura
+Best time to visit : Winter season
+Famous Food : Momos, Bhatoora, Chole bhature, Lassi, Tandoori chicken
+Things to Buy : Handicrafts
+Hotels : Hotel Sundare     Rikman Continental
+}
+{
+jowai
+Location : Meghalaya
+Best places to visit : Tyrshi Falls, Kiang Nangbah Monument, Rynji Falls, Ialong Park
+Best time to visit : March - May
+Famous Food : Preparations of meat, fish and pork are popular
+Things to Buy : Local Handicrafts
+Hotels : CTC Orchid Inn - review : 3.8    Paradise Adventure Camp - review : 3.8
+}
+{
+aizawl
+Location : Mizoram
+Best places to visit : Solomon's Temple, Mizoram State Museum,Reiek Tlang, KV Paradise, Pushpak Gurudwara
+Best time to visit : Summer season
+Famous Food : Koat Pitha, Misa Mach Poora, Paanch Phoron Torkari, Mizo Vawksa
+Things to Buy : Local handicraft items, shawls, puan, bags and furnishing materials, bamboo works such as baskets and khumbeu
+Hotels : The Esquire - review : 4.1      Hotel Regency - review : 4.1
+}
+{
+champhai
+Location : Mizoram
+Best places to visit : Murlen National Park, Lengteng Wildlife Sanctuary, Thasiama Seno-neihna, Mangkhaia Lung
+Best time to visit : October
+Famous Food : Fish, chicken, pork and beef
+Things to Buy : Traditional Mizo dress, Mizo garments, Chinese toys, Tawainese electronics
+Hotels : OYO - review : 3.8   Tourist Lodge - review : 4.2
+}
+{
+lunglei
+Location : Mizoram
+Best places to visit : Thorangtlang Wildlife Sanctuary, Saza Wildlife Sanctuary, The Nghasih Stream, Lunglei Bridge
+Best time to visit : From October to March
+Famous Food : Mizo dishes
+Things to Buy : Traditional Mizo weaving, e.g. Shawls, Bags, scarfs etc.
+Hotels : Government Guest House
+}
+{
+serchipp
+Location : Mizoram
+Best places to visit : Vantawng Falls, Chhingpuii Thlan, Zoluti Hriatrengna Lung,  Thenzawl Deer Park
+Best time to visit : March to October
+Famous Food : Non-vegetarian food
+Things to Buy : Handicrafts
+Hotels : Tourist Lodge - review : 4.0    Tourist Lodge - review : 4.1
+}
+{
+kohima
+Location : Nagaland
+Best places to visit : Nagaland State Museum, Kohima Cathedral Church, Puliebadze, Jotsoma, Naga Heritage Village, Sakhrie Park
+Best time to visit : October to May
+Famous Food : Delicacies prepared with bamboo shoots, ginger, Naga King chilly
+Things to Buy : Handicrafts, ethnic shawls, vests, artifacts
+Hotels : Razhu Pru Guest House   Hotel Japfu Ashok
+}
+{
+tuensang
+Location : Nagaland
+Best places to visit : The Living Stones of Tuensang, Tsadang, Longtrok
+Best time to visit : March to May
+Famous Food : Indian dishes
+Things to Buy : Hand made craft in various designs like spoons, plates, cups, hand woven hand bags, slangs, vest coat with traditional design, shawls and mekhalas (wrap round) and lot more exotic designs,chairs made of cane etc.
+Hotels : Circuit house   Tourist Lodge
+}
+{
+phek
+Location : Nagaland
+Best places to visit : Shilloi Lake, Khezhakeno Village, Glory Peak, Dzudu Lake, Phek Waterfall
+Best time to visit : Between November and March
+Famous Food : Dried pork, smoked pork stew, bamboo steamed fish, roasted intestines, beans mix
+Things to Buy : Naga shawls, bamboo mugs, cane carpets, silk mekhela
+Hotels : Hotel Archana Residency - review : 4.1     OYO 6038 Hotel Check Inn - review  : 4.1
+}
+{
+zunheboto
+Location : Nagaland
+Best places to visit : Fakim Wildlife Sanctuary, Ghosu Bird Sanctuary, Satoi Range, Sumi Baptist Church
+Best time to visit : Between October to March
+Famous Food : Mui Borok
+Things to Buy : Handmade bags, baskets made of cane, home decor items, shawls, ornaments
+Hotels :  Zkk Hotel - review : 3.6     Circuit House - review : 3.4
+}
+{
+panaji
+Location : Goa
+Best places to visit : Immaculate conception church, Fontainhas, Reis Magos Fort, Deltin Royale, Casino Pride
+Best time to visit : October  - April
+Famous Food : Non- Vegeterian Dishes
+Things to Buy : Cashew nuts of various varieties, Spicy Goa Sausages "Choricao", Goan Handicrafts shell and terracotta ware.
+Hotels : Old Quarter Hostel    Royal Phoenix Inn
+}
+{
+Vasco da Gama
+Location : Goa
+Best places to visit : St. Andrew's Church, Hansa beach,  Japanese Garden, Mormugao Fort, Baina beach
+Best time to visit : January - April
+Famous Food : Chicken cafreal, and chicken vildalho (or vindaloo), Goan Fish Curry Thali
+Things to Buy : Clothing, jewellery, books, technology
+Hotels : The HQ Hotel     Hotel La Paz
+}
+{
+Ponda
+Location : Goa
+Best places to visit : Shree Nagesh Maharudra Mandir, Shree Shantadurga Mandir, Shri Gaudapadacharya Math, Safa Masjid, Mount Carmel chapel, Chhatrapati Shivaji Maharaj Fort
+Best time to visit : November to mid March
+Famous Food : Goan Hindu style cooking, Fish
+Things to Buy : -
+Hotels : Hotel Atish    Hotel King Samrat
+}
+{
+Velha Goa
+Location : Goa
+Best places to visit : Church of St. Cajetan, Basilica of Bom Jesus, Se Cathedral, Chapel of Our Lady of the Mount, Catholic Church of St. Francis of Assisi
+Best time to visit : January - December
+Famous Food : South Indian food
+Things to Buy : Sea Shells Galore, Cashew Nuts,  Musical Instruments
+Hotels : La Grande Residencia - review : 4.0    Treebo Trip La Grande Residencia - review : 3.3
+}
+{
+gandhinagar
+Location : Gujarat
+Best places to visit : BAPS Akshardham Temple, Dandi Kutir (Salt Mount) Museum, Indroda Nature Park, Punit Van, The Adalaj Stepwell
+Best time to visit : March to May
+Famous Food : Khakhra, Thepla, Parotha, Bajra no Rotlo, Khandvi, Dhokla
+Things to Buy : Khadi products, Cotton fabric apparel: shirts, trousers, and suits for men as well as sarees, salwar, kurtas for women.
+Hotels : The Leela Gandhinagar - review : 4.5   Hotel Middletown - review : 4.0
+}
+{
+ahemdabad
+Location : Gujarat
+Best places to visit : Sidi Saiyyed Mosque, Jama Masjid, Hutheesing Jain Temple, Dargah Hazrat Shaikh Ahmed Khattu Ganj Bakhs RA, Sabarmati Riverfront, Kankaria Lake
+Best time to visit : November to February
+Famous Food : Samosa
+Things to Buy : Traditional hand embroidered clothes
+Hoteles : Hotel Royal Highness    Hotel Cama Park Plaza
+}
+{
+surat
+Location : Gujarat
+Best places to visit : Ambika Niketan Temple, Sardar Patel Museum, Gopi Talav, Surat Castle, Sneh Rashmi Botanical Garden, Amaazia Water Park
+Best time to visit : October - February.
+Famous Food : Locho, Surti Undhiyu, Rasawala Khaman, Cold coco and Surti Ghari
+Things to Buy : Clothes and jewellery
+Hotels : Hotel Park Inn    Tex Palazzo Hotel
+}
+{
+rajkot
+Location : Gujarat
+Best places to visit : Mahatma Gandhi Museum, Watson Museum, Rotary Dolls Museum, Pradhyuman Zoological Park, Jubilee Garden, Lalpari Lake
+Best time to visit : Winter 
+Famous Food : Ganthiya, Fafda and jalebi, Bhavnagari, Vanela
+Things to Buy : Perfumes,insence sticks,clothes,handloom products
+Hotels : HOTEL SK   Hotel Bhagwati 
+}
+{
+chandigarh
+Location : Haryana
+Best places to visit : Sukhna Lake, Capitol Complex Tourist Center, Nek Chand’s Rock Garden of Chandigarh, Zakir Hussain Rose Garden, Government Museum and Art Gallery
+Best time to visit : September to November
+Famous Food : Punjabi flavors to Continental cuisine.
+Things to Buy : Coffee mugs, shirts
+Hotels : Shivalik View    Mount View
+}
+{
+faridabad
+Location : Haryana
+Best places to visit : Raja Nahar Singh Palace, Asola Bhatti Wildlife Sanctuary, Parson Temple, Town Park
+Best time to visit : Winter or Monsoon
+Famous Food : Momos, Crispy Chilli Chicken, Hong Kong Noodles
+Things to Buy : Faridabad is famous for Henna production. Henna is also called Mehendi and is a vegetable dye used in Indian weddings to decorate the hands and legs of the brides.
+Hotels : Hotel Delite     OYO Rooms
+}
+{
+panipat
+Location : Haryana
+Best places to visit : Ibrahim Lodhi Tomb, Kabuli Bagh Masjid, Kingland Water World - An Amusement and Water Theme Park, Panipat Museum
+Best time to visit : October - January
+Famous Food : Chaats and faludaas.
+Things to Buy : Pachranga Achar Carpets & Dhuli Curtains & Bedsheets
+Hotels : Hotel Maharaja  Hotel Gold 
+}
+{
+ambala
+Location : Haryana
+Best places to visit : Gurudwara Sri Manji Sahib Ji, Gurudwara Sri Panjokhra Sahib, Holy Redeemer Church, Sardar Patel Park, Herbal Park, Shri Ambika Devi Mandir
+Best time to visit : September to March
+Famous Food : Indian food
+Things to Buy : Clothes
+Hotels : BATRA palace    Amra Pali Resort
+}
+{
+bengaluru
+Location : Karnataka
+Best places to visit : Lalbagh Botanical Garden, Bangalore Palace, Cubbon Park, ISKCON Temple Bangalore, Bannerghatta Biological Park, Sri dodda ganapathy temple
+Best time to visit : Winter
+Famous Food : Dosas, idlis, vadas, curd rice, pulao, rice with sambar, lemon rice
+Things to Buy : Handicrafts 
+Hotels : Grand Ashok    Taj Residency Hotel
+}
+{
+manglore
+Location : Karnataka
+Best places to visit : Kadri Shree Manjunatha Temple, Panambur Beach, Mahatobhaara Sri Mangalaadevi Temple, Tannirbhavi Beach, Pilikula Nisargadhama, Suratkal Beach
+Best time to visit : Between October - February
+Famous Food : North-Indian Cuisine and Seafood
+Things to Buy : Cashews, nuts, spices, ayurvedic medicines, seafood, and jewellry
+Hotels : Nalapad Residency     The Ocean Pearl
+}
+{
+mysore
+Location : Karnataka
+Best places to visit : Mysore PalaceSri Chamarajendra Zoological Gardens, St. Philomena's Cathedral, Sri Chamundeshwari Temple, Brindavan Gardens, Jaganmohan Palace Art Gallery And Auditorium, Ranganathittu Bird Sanctuary
+Best time to visit : October to February / March to May
+Famous Food : Mysore Pak
+Things to Buy : Silk sarees (Mysore Silk), sandalwood carvings and many varieties of perfumed incense sticks
+Hotels : The Viceroy   Hotel Peridotinn
+}
+{
+belgaum
+Location : Karnataka
+Best places to visit : Gokak Falls, Military Mahadeva Temple, Kamal Basti, Belgaum Fort, Vajrapoha Falls
+Best time to visit : November to February
+Famous Food : Red Velvet cupcakes, slice cakes & Bread puffs, Puri Bhaaji, Dosa's and Spl Chai, Solkadi
+Things to Buy : Brass utensils, jewelry, wood products, showpieces, and Silk sarees
+Hotels : Hotel Adinarayan    Hotel Ramdev
+}
+{
+thiruvananthapuram
+Location : Kerala
+Best places to visit : Thiruvananthapuram Zoo, Napier Museum, Sree Padmanabhaswamy Temple, Shangumugham Beach, Kovalam Beach
+Best time to visit : October to February
+Famous Food : South Indian food
+Things to Buy : Handcrafted gifts and stationaries, paper crafts, home decor, Jewellery and cotton hand block printed, vegetable dyed clothing
+Hotels : Hotel Navaratna     Hotel Sukhvas
+}
+{
+kochi
+Location : Kerala
+Best places to visit : Cherai Beach, Santa Cruz Cathedral Basilica Fort, Hill Palace Museum, PARADESI SYNAGOGUE, Bolgatty Palace and Island Resort
+Best time to visit : October to February
+Famous Food : Meen Molagitta Curry, Kurukku Kalan, Palada
+Things to Buy : Antiques/art works,  Apparel and fabric
+Hotels : Aroma Home Stay    Hotel Fort Avenue
+}
+{
+thrissur
+Location : Kerala
+Best places to visit : Sri Vadakkunnathan Temple, Our Lady of Dolours Basilica, Paramekkavu Bhagavathi Temple, Thriprayar Sree Rama Temple, Sakthan Thampuran Palace
+Best time to visit : Winter 
+Famous Food : Vellayappams
+Things to Buy : . Handicrafts , Kerala crafts  , Textiles , Silk , Brass artifacts
+Hotels : Ashoka Inn   Bharath Hotel
+}
+{
+malappuram
+Location : Kerala
+Best places to visit : Sree Kadampuzha Bhagavathi Temple, Teak Museum & Bio-resources Nature Park, Thirunavaya Sree Nava Mukunda Temple, Adyanpara Waterfall
+Best time to visit : July to March
+Famous Food : Biryani, prepared with mutton, chicken. pork and Pathiris
+Things to Buy : Bags, crockery, fancy shoes, gifting items, textile and readymades, belts, caps, ornaments
+Hotels : Malappuram Residency - review : 3.4    Karibu Residency - review : 4.5
+}
+{
+shimla
+Location : Himachal Pradesh
+Best places to visit : Shri Hanuman Mandir Jakhoo, Christ Church, Kali Bari Temple, Himachal State Museum, Viceregal Lodge & Botanical Gardens, Jakhu Hill
+Best time to visit : May to June and December to January
+Famous Food : Madra, Dhaam, Thukpa
+Things to buy : Kullu shawls, wooden toys, walking sticks and Tibetian carpets
+Hotels : Radisson Hotel Shimla      The Oberoi Cecil
+}
+{
+mandi
+Location : Himachal Pradesh
+Best places to visit : Parashar Lake, Jalori Pass, Jibhi Waterfall, Rewalsar Lake, Chehni Kothi
+Best time to visit : October to November
+Famous Food : Local delicacies with urad dal as one of the main ingredient
+Things to buy : Local handicrafts
+Hotels : Snow City Farms
+}
+{
+solan
+Location : Himachal Pradesh
+Best places to visit : Maa Shoolini Temple, Jatoli Temple, Mohan Shakti Temple, Dharon Ki Dhar Gorkha Fort
+Best time to visit : Summer season
+Famous Food : Roasted corn, seasonal fruits and vegetables.
+Things to buy : --
+Hotels : V Resorts Solang        Tag Resorts Garden Courts
+}
+{
+bilaspur
+Location : Himachal Pradesh
+Best places to visit : Kanan Pendari Zoological Garden, Bilasa Taal Vasundhara Udyan, Rama Life City Garden And Temple, Bubble Island, Wonder World
+Best time to visit : Winter season
+Famous Food : Doobraj rice
+Things to buy : Hand woven fabric, Pithora paintings, colored beads and chunky jewellery, Dokra metal animals and figurines
+Hotels : Hotel Kwality      Hotel Neelam
+}
+{
+ranchi
+Location : Jharkhand
+Best places to visit : Tagore Hill, Jagannath Mandir, Pahari Mandir, Bhagwan Birsa Biological Park, Sidhu Kanhu Park
+Best time to visit : Winter season
+Famous Food : North Indian and Chinese dishes
+Things to buy :  Clothing, accessories 
+Hotels : Hotel Capital Residency      Hotel Greenridge Avenue
+}
+{
+jamshedpur
+Location : Jharkhand
+Best places to visit : Dalma Wildlife Sanctuary, Dimna Lake, Dalma Hill Top, Sir Dorabji Tata Park, Tata Steel Zoological Park
+Best time to visit : November to February
+Famous Food : Paratha-Alu Bhujia ,Puri-Sabzi, Alu Paratha and Sattu-Paratha
+Things to buy : Handicrafts
+Hotels : Hakula Kocha      Pindrabrea PRH
+}
+{
+deoghar
+Location : Jharkhand
+Best places to visit : Baba Baidyanath Jyotirlinga Temple, Satsang Ashram, Naulakha Temple, Rikhiapeeth Ashram, Nandan pahar park, Tapovan Hill
+Best time to visit : Winter
+Famous Food : Peda, Tilkut, Rabri , Paratha, Bel ka Morabba
+Things to buy : ---
+Hotels : New Grand Hotel     Hotel Prova
+}
+{
+hazaribagh
+Location : Jharkhand
+Best places to visit : Canary Hill Hazaribagh, Sanskriti Museum and Art Gallery, Hazaribagh Jheel, Narsingh Sthan Temple, Chadwa Dam
+Best time to visit : Winter season
+Famous Food : Bihari litti, Pitha, Suran chutney, and Khichri
+Things to buy : Paitkar Paintings, Jadupatua / Jadopatia Paintings, Khovar and Sohrai Paintings, Terracotta Crafts and Tribal Jewellery.
+Hotels : Hotel A K International - review : 3.9      Hotel Hill Side - review : 3.9
+}
+{
+gangtok
+Location : Sikkim
+Best places to visit : Hanuman tok, 
+Best time to visit : March to May
+Famous Food : Dumplings
+Things to buy : Fruit Squash, Alpine Cheese, Temi Tea & Maha Gurudev Tea
+Hotels : Modern Central Lodge    The shire
+}
+{
+namchi
+Location : Sikkim
+Best places to visit : Namchi Monastery , Ralong Monastery , Statue of Guru Rinpoche
+Best time to visit : March to May 
+Famous Food : --
+Things to buy : Thanka paintings, carpets, handlooms, wooden carved and painted items, wooden masks, cane and bamboo items
+Hotels : Sobralia Hotels - Casino Resort & Spa, Namchi - review : 4.2   Dungmali Heritage Village Resort - review : 4.5
+}
+{
+lachung
+Location : Sikkim
+Best places to visit : Lachung Gompa, Yumthang Valley
+Best time to visit : October to June
+Famous Food : Momos
+Things to buy : ---
+Hotels : Tashi Yankhel
+}
+{
+ravangla
+Location : Sikkim
+Best places to visit : Rayong Sunrise View Point, Ralang Monasteries , Ralang & Borong hot spring, Tendong trek
+Best time to visit : Summer season
+Famous Food : Local dishes
+Things to buy : ----
+Hotels : Hotel New Dzongri      Mt. Narsing Village Resort
+}
+{
+chennai
+Location : Tamil Nadu
+Best places to visit : Marina Beach, Kapaleeswarar Temple, St. Mary's Church, Valluvar Kottam, National Art Gallery
+Best time to visit : October to February
+Famous Food : South Indian Food
+Things to buy : Salwar materials, kurtas, fashion accessories, footwear, and handbags, trendy clothes, mobile phones, and accessories
+Hotels : Radisson GRT Hotel   Taj Connamera
+}
+{
+madurai
+Location : Tamil Nadu
+Best places to visit : Shree Meenakshi Sundareshwara Temple, Thirumalai Nayak Palace, Gandhi Museum, Vandiyur Mariamman Teppakulam
+Best time to visit : December to February
+Famous Food : Paruthi paal, jigarthanda, panangkarkandu paal and chettinadu varieties like appam, kuzhi paniyaram
+Things to buy : Granite stone , Handloom Sarees
+Hotels : ITC Fortune     Marriott Hotel Sangam
+}
+{
+vellore
+Location : Tamil Nadu
+Best places to visit : Golden Temple, Amirthi Forest, Muthumandapam, Moorthana Dam, Elagiri/Yelagiri Hills, Kavaloor Observatory
+Best time to visit : Winter
+Famous Food : Biryani made from Jeera Sambha Rice
+Things to buy : --
+Hotels : Bans The Hotel     GRT Regency Sameera
+}
+{
+coimbatore
+Location : Tamil Nadu
+Best places to visit : Thirupathi Thirumalai Srivari Anadha nilayam , Anjeneyar Kovil, Dhyanalinga Yogic, G.D.Naidu Car Museum 
+Best time to visit : September to March
+Famous Food : South Indian Idlis, Dosas, Vada, Chutney and Vegetarian rice 
+Things to buy : Jewelry , Sarees
+Hotels : Hotel Prince Gardens    Hotel Srri Aswini Deluxe
+}
+{
+hyderabad
+Location : Telangana	
+Best places to visit : Chowmahalla Palace, Falaknuma Palace, Golconda Fort
+Best time to visit : October to March
+Famous Food : Hyderabadi biryani, pathar-ka-ghosht, nahari, haleem, double-ka-meetha, khubani-ka-meetha
+Things to buy : Handicrafts
+Hotels : Aditya Park        Fortune Select Manohar
+}
+{
+warangal
+Location : Telangana	
+Best places to visit : Warangal Fort, Thousand Pillared temple, Ramappa Temple and Lake, Siddeshwara Temple
+Best time to visit : October to March
+Famous Food : Laskora Unda, Hyderabadi Biryani, Jalebis
+Things to buy : Peacock motif
+Hotels : City Grand Hotel      Hotel Landmark Residency
+}
+{
+karimnagar
+Location : Telangana
+Best places to visit : Lower Manair Dam, Deer Park, Nampally Gutta, Ujvala Amusement Park, Manthani Reserve Forest
+Best time to visit : Winter season
+Famous Food : Jalebi , Samosa
+Things to buy : --
+Hotels : Maitri Residency A Business Hotel- review : 4.0      Hotel Swetha - review : 3.9
+}
+{
+adilabad
+Location : Telangana 
+Best places to visit : Goddess Saraswati temple, Pilgrimage Centers, Waterfalls, Wild animal sanctuaries
+Best time to visit : Between November and March
+Famous Food : Sheermal, Tandoori roti with Haleem
+Things to buy : Nirmal Paintings and Toys and Bell Metal Craft
+Hotels : Hotel Sai Panchvati - review : 3.9     Hotel Radhe Krishna - review : 4.1
+}
+{
+kolkata
+Location : West Bengal
+Best places to visit : Eden Gardens , Akashwani Bhavan, Indoor Stadium, Fort William, Victoria Memorial
+Best time to visit : October and February
+Famous Food : Kosha Mangsho (Mutton Curry), Shorshe Ilish, Shukto, Aloo Posto, Luchi 
+Things to buy : Bankura horses, saris from Shantiniketan, and leather goods
+Hotels : OYO Rooms      Hotel Aston
+}
+{
+darjeeling
+Location : West Bengal
+Best places to visit : Himalayan Zoo, Observatory Hill, Rock Garden, Batasia Loop
+Best time to visit : April to June
+Famous Food : Momos
+Things to buy : Miniature monasteries and garments made from yak wool, Tea
+Hotels : Elgin-Darjeeling       Mayfair Darjeeling
+}
+{
+howrah
+Location : West Bengal
+Best places to visit : Belur Math, Botanical Garden, Santragachhi Jheel
+Best time to visit : November to February
+Famous Food : Macher jhol, Mishti Doi, Kosha Mangsho, Alur torkari
+Things to buy : Clothes and pots
+Hotels : Fortune Park Panchwati - review : 4.0     The Ashoka Hotel - review :  3.6
+}
+{
+durgapur
+Location : West Bengal
+Best places to visit : Bhabani Pathak’s Tilla, Rahreswar Shibtola, Garh Jungle, Anand Amusement Park
+Best time to visit : Winter season
+Famous Food : Vegetarian and Non-vegetarian Biryani
+Things to buy : Terracotta and wooden items
+Hotels : Hotel Reliance       Hotel Ispat
+}
+{
+andaman and nicobar islands
+Best places to visit : Port Blair,  Cellular Jail, Neil Island
+Best time to visit : October - May
+Famous Food : Seafood
+Things to buy : Shells
+Hotels : A&N tourism hotels
+}
+{
+dadra and nagar haveli
+Best places to visit : Portuguese Church, Tribal Museum, Madhuban Dam Guest House, Lion Safari on way to Khavel, Khanvel Gardens
+Best time to visit : November to March
+Famous Food : Khatta Mittha Bhaat , Doodhpak , Aamras, Bhajia , Ghari
+Things to buy : leather slippers, weaving mats and also bamboo baskets
+Hotels : lotus resorts - review : 3.5 Utkarsh Hotel - review : 3.8
+}
+{
+daman and diu
+Best places to visit :  Mirasol Lake Garden, Nagoa Beach, Diu Fort, Somnath Mahadev Temple, St. Paul Church
+Best time to visit : October - April
+Famous Food : Lobster, fish and crabs
+Things to buy : Seashell Jewelry , Oyster Artefacts , Bamboo Items , Electronics , Leather Slippers
+Hotels : Silver Sands Beach Resort- review : 3.8     Hotel TGH - The Grand Highness - review : 4.3
+}
+{
+lakshadweep
+Best places to visit : Kadmat , Kavaratti Island, Kalpeni, Bangaram, Agatti Island
+Best time to visit : October to mid May
+Famous Food : Octopus Fry, Mus Kavaab, Fish Tikka
+Things to buy : Key chains and Shells
+Hotels : Agatti Island Beach Resort     Bangaram Island Resort
+}
+{
+delhi
+Best places to visit : Red Fort, Humayun's tomb, Qutub complex, Kiran Nadar Museum of Art
+Best time to visit : October to March
+Famous Food : Street food
+Things to buy : Handicrafts and Natural Products
+Hotels : The Lodhi    Leela Palace
+}
+{
+puducherry
+Best places to visit : Barathi Park, Botanical garden, Chunnambar Boat House, Churches, Colonial buildings, French Quarter
+Best time to visit : October and March
+Famous Food : Tandoori Potato, Soya Dosa, Assad, Coconut Curry, Podanlangkai, Stuffed Vegetables, Curried Vegetables
+Things to buy : Home décor items, linen and leather goods.
+Hotels : Sunway Manor     Surguru Hotel
+}
+{
+jammu and kashmir
+Best places to visit : Gulmarg, Sonamarg, Mubarak Mandi Palace, Bahu Fort
+Best time to visit : March-early May
+Famous Food : Pawan Fruit Ice cream, Kaladi, Phahalwan di hatti, kachalu
+Things to buy :  Garments, footwear
+Hotels : Hotel The Grand Mamta - review : 4.1    Radisson Blu Jammu - review : 4.3
+}
+{
+ladakh
+Best places to visit : Pangong Lake, Nubra Valley, Tso-Moriri Lake, The Hemis Monastery
+Best time to visit : Summer season
+Famous Food : Thukpa, noodle soup and Tsampa
+Things to buy : Tibetan Handicrafts & Wares · 2. Silver and Stone Jewellery · 3. Pashmina Shawls
+Hotels : Hotel Shangrila - review : 3.9   Hotel Caravan Centre - review : 4.1
+}
+{ 
+lucknow
+Location: Uttar Pradesh
+Best places to visit: Bara Imambara, British Residency, Janeshwar Mishra Park, Hazratganj
+Best time to visit: september to march
+Famous food:kormas, kaliya, nahari-kulchas, etc
+Famous for:Adab and Tehzeeb, (manners and hospitality)
+Best hotels:Taj Mahal Lucknow, review:4.5  Ramada By Wyndham Lucknow, review:5.0
+}
+{ 
+varanasi
+Location: Uttar Pradesh
+Best places to visit:Ganges River, Sarnath, Dasaswamedh Ghat, Banaras Ghats
+Best time to visit:winter
+Famous food:kachori sabji, chena dahi vada, chooda matar, etc
+Famous for:production of silks and brocades wit gold and silver threadwork
+Best hotels:BrijRama Palace, review:5.0  Taj Ganges, Varanasi review: 4.0
+}
+{ 
+allahabad
+Location: Uttar Pradesh
+Best places to visit:Triveni Sangam Allahabad, Anand Bhavan, Hanuman Mandir, Khusro Bagh
+Best time to visit:october to march
+Famous food:Kachori and sabji, chaat, gulab jamun, lassi, etc
+Famous for:city of Prime Ministers
+Best hotels:Hotel Polo Max, review: 4.5
+}
+{ 
+agra
+Location: Uttar Pradesh
+Best places to visit:Taj Mahal, Agra Fort, Wildlife SOS, Tomb of Itimad-ud-Daulah
+Best time to visit:october to march
+Famous food:Petha
+Famous for:The Taj Mahal
+Best hotels:The Oberoi Amarvilas, review: 5.0  Trident, Agra, review:4.5
+}
+{ 
+dehradun
+Location: Uttarakhand
+Best places to visit:Forest Research Institute, Tibetan Buddhist Temple, Chetwoode Hall (Indian Military Academy), Shiv Mandir
+Best time to visit:march to june
+Famous food:momos
+Famous for:nature parks and delicious food joints
+Best hotels:Lemon Tree Hotel, Dehradun, review:4.5
+}
+{ 
+roorkee
+Location: Uttarakhand
+Best places to visit:Kaliyar Sharif, Har ki Pauri, Piran Kaliyar Sharif, Patanjali Yog Peeth
+Best time to visit:october to march
+Famous food:biryani etc
+Famous for:asias first engineerig college Indian institute of technology
+Best hotels:Hometel Roorkee, review:4.0
+}
+{ 
+rishikesh
+Location: Uttarakhand
+Best places to visit:Triveni Ghat, Neer Garh Waterfall, The Beatles Ashram, Lakshman Jhula Bridge
+Best time to visit:october to february
+Famous food:aloo puri, kachori, rasmalai, jalebi, etc
+Famous for:meditation and yoga
+Best hotels:Veda5 Ayurveda & Yoga Retreat, review:5.0
+}
+{ 
+auli
+Location: Uttarakhand
+Best places to visit:Veda5 Ayurveda & Yoga Retreat, Gorson Bugyal, Nanda Devi National Park, Trishul Peak
+Best time to visit:winter
+Famous food: Kachmauli, Bal mithai, Singhori, etc
+Famous for:hiking and ski destination
+Best hotels:The Tattva, review:4.5  Blue Poppy Resort, review:4.5
+}
+{ 
+chittoor
+Location: Andhra Pradesh
+Best places to visit:Tada Falls, Nagalapuram Falls, Sri Kapileswaraswami Temple, Horsley Hills
+Best time to visit:september to february
+Famous food:Ragi Mudde
+Famous for:mangoes, grains, sugarcane, peanuts
+Best hotels:Bans the Hotel, review:3.5
+}
+{ 
+visakhapatnam
+Location:Andhra Pradesh 
+Best places to visit:Borra Caves, INS Kurusura Submarine Museum, Kailasagiri, Rishikonda Beach
+Best time to visit:october to march
+Famous food:muri mixture, tomato baji, punugullu, etc
+Famous for:home to the oldest shipyard in all of India
+Best hotels:Novotel Visakhapatnam Varun Beach, review:4.5
+}
+{ 
+nellore
+Location:Andhra Pradesh 
+Best places to visit:Penchalakona Temple, Sri Ranganathaswamy Temple, Sri Raja Rajeswari Temple, Mypadu Beach
+Best time to visit:winter
+Famous food:Chepala pulsu and nellore style dosa
+Famous for:its rich agriculture as well as export of prawns, shrimp and sugar cane
+Best hotels:Minerva Grand Nellore, 4.0
+}
+{ 
+tirupati
+Location: Andhra Pradesh
+Best places to visit:Tirumala Temple, Sri Padmavathi Ammavari Temple, Srivari Mettu, Kapila Theertham
+Best time to visit:september to february
+Famous food:Pulihora
+Famous for:Venkateswara temple in the sacred Tirumala hills 
+Best hotels:Fortune Select Grand Ridge, review:4.5
+}
+{ 
+itanagar
+Location: Arunachal Pradesh
+Best places to visit:Gompa, Ganga Lake, Jawaharlal Nehru State Museum, Buddha Temple
+Best time to visit:october to april
+Famous food:Apong, Pika Pila, Chura sabji, etc
+Famous for:its fine Tibetan architecture and vareid tribal culture
+Best hotels:Cygnett Inn Trendz, reviw:4.5
+}
+{ 
+tawang
+Location: Arunachal Pradesh
+Best places to visit:Sela Pass, Bumla Pass, Madhuri Lake, Tawang Buddhist Monastery
+Best time to visit:summers
+Famous food:momos and thukpa
+Famous for:its 400 year old monastery
+Best hotels:Hotel Tawang Heights, review: 5.0
+}
+{ 
+ziro
+Location: Arunachal Pradesh
+Best places to visit:Talley Valley Wildlife Sanctuary, Shiva Linga, Tarin Fish Farm, Orchid Research Centre
+Best time to visit:march to october
+Famous food:boiled rice wrapped in leaves and momos
+Famous for:paddy cum pisciculture cultivation
+Best hotels:Siiro Resort, review:4.5
+}
+{ 
+bomdila
+Location: Arunachal Pradesh
+Best places to visit:Bomdila Monastery, Chilipam Monastery, Sessa Orchid Sanctuary, Craft Centre And Ethnographic Museum
+Best time to visit:april to october
+Famous food:momos and thukpas
+Famous for:its apple prchids
+Best hotels:Tsepal Yongjam, review:4.0
+}
+{ 
+guwahati
+Location: Assam
+Best places to visit:Kamakhya Temple, Umananda Temple, Purva Tirupati Shri Balaji temple, Assam State Zoo
+Best time to visit:october to april
+Famous food:thukpa, chowmein, khaar, silkworms, etc
+Famous for:one horned rhinoceros
+Best hotels:Radisson Blu Guwahati, review:4.5
+}
+{ 
+barpeta
+Location: Assam
+Best places to visit:Ganakkuchi Satra, Sundaridiya Satra, Tamranga Lake, Jain Temple Nalbari
+Best time to visit:late october to early march
+Famous food:fast food
+Famous for:its Vaishnavite Thaans and Neo Vaishnavite Satras
+Best hotels:Musa Jungle Retreat, review:4.5
+}
+{ 
+patna
+Location: Bihar
+Best places to visit:Takht Sri Harmandir Sahib Ji, Hanuman Mandir, Buddha Smriti Par, Patna Museum
+Best time to visit:winter
+Famous food:Litti choka, kesar peda, chana ghugni, sattu paratha
+Famous for:top historical places
+Best hotels:OYO 10788 Hotel Harisons Continental, review:4.0
+}
+{ 
+gaya
+Location: Bihar
+Best places to visit:Mangla Gauri Temple, Pind Daan Gaya, Vishnupad Temple, Tibetan Monastery
+Best time to visit:october to march
+Famous food:tilkut, khaja, and kesariya peda
+Famous for:Buddhist documented history
+Best hotels:Hotel Viraat Inn, review:3.5
+}
+{ 
+biharsharif
+Location: Bihar
+Best places to visit:Maner Sharif, Kakolat Waterfalls, Shankhalipi Inscriptions, Hiuen Tsang Memorial Hall
+Best time to visit:october to may
+Famous food:fast food
+Famous for:the tomb of the 14th century Sufi warrior Syed Ibrahim Malik Biya atop Pir Pahadi hill
+Best hotels:The Rajgir Residency, review:3.5
+}
+{ 
+darbhanga
+Location: Bihar
+Best places to visit:Naulakha Palace, Kali Mata Temple, Garibnath Temple, Janaki Temple
+Best time to visit:may, june and april
+Famous food:Baqer Khani, mutton biryani, paya, nihari, pulaav, nargisi kofte, bihari kebab, etc
+Famous for:trade in fish, mango and makhana
+Best hotels:Hotel Naveen Residency, review:3.5
+}
+{ 
+raipur
+Location: Chhattisgarh
+Best places to visit:Nandan Van Zoo & Safari, Purkhouti Muktangan, Ghatarani Waterfalls, Naya Raipur Central Park
+Best time to visit:october to march
+Famous food:lal bhaji, chech bhaji, chowlai bhaaji
+Famous for:vibrant steel plants
+Best hotels:Courtyard by Marriott Raipur, review:5.0
+}
+{ 
+bilaspur
+Location: Chhattisgarh
+Best places to visit:Achanakmar Wildlife Sanctuary, Kanan Pendari Zoo Park, Kutaghat Dam
+Best time to visit:october to march
+Famous food:sweets
+Famous for:doobraj rice, fara, chila, rice roll, etc
+Best hotels:Hotel East Park, review:4.0
+}
+{ 
+korba
+Location: Chhattisgarh
+Best places to visit:Chakreshwar Mahadev Temple, Dev Pahari Waterfall, Bango Dam, Kutaghat Dam
+Best time to visit:october to march
+Famous food:jalebis
+Famous for:coal mines
+Best hotels:Blue Diamond The Hotel, review:4.0
+}
+{ 
+agartala 
+Location: Tripura
+Best places to visit:Unakoti, Neermahal Palace, Ujjayanta Palace, Heritage Park
+Best time to visit:april to july
+Famous food:chauk, mui borok, mosdeng serma, bhangui, etc
+Famous for: the Jagannath temple
+Best hotels:Ginger Agartala, review:4.5
+}
+{ 
+amarpur
+Location: Tripura
+Best places to visit:Devtamura, Pilak, Sangita Bharat-Bangladesh Maitri Udyan, Gunavati Group of Temples
+Best time to visit:january to september
+Famous food:fast food
+Famous for: a quiet picnic spot
+Best hotels: Kirti Palace Hotel, review:5.0
+}
+{ 
+melaghar
+Location: Tripura
+Best places to visit:Tripurasundari Temple, Gunavati Group of Temples, Sepahijala Wildlife Sanctuary, Mainimati Ruins
+Best time to visit:january and february
+Famous food:mui borok
+Famous for: its beautiful water palace Neermahal
+Best hotels:Hotel Welcome Palace, review:3.5
+}
+{ 
+sabroom
+Location: Tripura
+Best places to visit:Pilak, Khaiyachara Falls, Hanging Bridge, Tripurasundari Temple
+Best time to visit:november to february
+Famous food:fast food
+Famous for: 
+Best hotels:Hotel Favour Inn International, review:3.0
+}
