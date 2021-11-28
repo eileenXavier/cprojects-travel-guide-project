@@ -18,15 +18,15 @@ struct user{
     FILE *fp;
 	FILE *fpointer;
     FILE *f;
-    char buffer2[100];
+    char buffer2[200];
     char place[15];
     int found = 0;
 	int opt,usrFound = 0;
 	struct user user;
-	char password2[50],buffer[64];
+	char password2[50],buffer[200];
 	 char pword1[64];
 	 char username1[64];
-   char buffer1[64];
+   char buffer1[200];
    int i = 0;
 
 void takeinput(char ch[50]){
@@ -67,7 +67,7 @@ fpointer =fopen("record.txt", "r");
       exit(-1);
    }
 
-   while( fgets (buffer, 64, fpointer)) {
+   while( fgets (buffer, 200, fpointer)) {
         if(strcmp(buffer,user.password) == 0) {
           printf("\nplz create a strong password\n");
           printf("Enter your password:\t");
@@ -148,7 +148,7 @@ fpointer =fopen("record.txt", "a+");
    }
 
 
-   while( fgets(buffer, 64, fpointer)){
+   while( fgets(buffer, 200, fpointer)){
         if(strcmp(buffer,username1) == 0){
 		  usrFound =1;
        }
@@ -165,7 +165,7 @@ fpointer =fopen("record.txt", "a+");
 
    fpointer =fopen("record.txt", "a+");
 
-   while( fgets(buffer, 64, fpointer)){
+   while( fgets(buffer, 200, fpointer)){
         if(strcmp(buffer,pword1) == 0){
           printf("you are registered");
 		  usrFound =1;
@@ -212,7 +212,7 @@ f =fopen("places.txt", "a+");
 
 
 
-    while( fgets(buffer, 64, f)) {
+    while( fgets(buffer, 200, f)) {
        
         if(strcmp(buffer, place) == 0){
           found = 1;
@@ -248,7 +248,7 @@ fseek(f, 0, SEEK_CUR);
 int exactpos = pos1 - pos;
 fseek(f, -exactpos, SEEK_CUR);
 
- while( fgets(buffer, 64, f) ) {
+ while( fgets(buffer,200, f) ) {
         if(ftell(f)== pos1+2){
 			printf("\nsearch another place(1-- yes, 0--no)\n");
           break;
