@@ -7,6 +7,38 @@
 #define ENTER 13
 #define TAB 9
 #define BCKSPC 8
+guide:
+    system("cls");
+    printf("Enter the place you want to search:");
+    fgets(place, 15, stdin);
+
+    for (i = 0; i <= strlen(place); i++) {
+        if (place[i] >= 65 && place[i] <= 90)
+            place[i] = place[i] + 32;
+    }
+
+    f = fopen("places.txt", "a+");
+    if (!f) {
+        printf("File could not be opened. Make sure it exists.\n");
+        exit(-1);
+    }
+
+    while (fgets(buffer, 200, f)) {
+        if (strstr(buffer, place) != NULL) {  // Partial match allowed
+            found = 1;
+            printf("Place found: %s\n", buffer);
+            break;
+        }
+    }
+
+    if (!found) {
+        printf("No matching places found. Try again.");
+        Sleep(800);
+        goto guide;
+    }
+
+    fclose(f);
+    return 0;
 
 struct user{
     char fullName[50];
